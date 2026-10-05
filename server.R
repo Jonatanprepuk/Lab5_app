@@ -1,7 +1,6 @@
 library(leaflet)
 library(Lab5)
 
-
 function(input, output) {
   data <- reactive({
     earthquake_API(

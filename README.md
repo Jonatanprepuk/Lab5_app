@@ -2,5 +2,5 @@
 
 You can run this with: 
 ```{r}
-shiny::runGitHub("")
+shiny::runGitHub("Lab5_app", "Jonatanprepuk")
 ```

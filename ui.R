@@ -11,7 +11,7 @@ page_sidebar(
       min = 1,
       max = 10,
       step = 0.1,
-      value = c(8, 9.9)
+      value = c(5, 7)
     ),
     dateRangeInput(
       start = "2026-01-01",

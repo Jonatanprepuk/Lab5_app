@@ -9,5 +9,3 @@ richter_colors <- c(
   "#8E2C2C",
   "#5B1A1A" # high magnitude
 )
-
-
